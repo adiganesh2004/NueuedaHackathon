@@ -1,0 +1,3 @@
+npx shadcn@latest add "https://v0.dev/chat/b/b_xUNYtB8IkT5?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..sX5efr-M7Y60jfMp.OyHlFZX01ZVaH0fqLwxhPvrL2UzTtKV9Yvucxdq7UFCV24_TSSWbVFz1YOk.053oklIYEepzlyLH7zS63g"
+
+npm run dev
