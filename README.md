@@ -1,4 +1,0 @@
-# NueuedaHackathon
-
-
-Hello!
