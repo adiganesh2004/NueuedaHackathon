@@ -1,0 +1,35 @@
+{
+  "name": "fd-kyc-dapp",
+  "version": "1.0.0",
+  "description": "Decentralized Fixed Deposit Tracker and KYC Vault",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "web3": "^1.6.1",
+    "ipfs-http-client": "^56.0.0",
+    "dotenv": "^10.0.0",
+    "axios": "^0.21.1",
+    "@chainlink/contracts": "^0.4.0"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4",
+    "jest": "^27.0.6",
+    "babel-jest": "^27.0.6",
+    "babel-preset-react": "^6.24.1"
+  },
+  "keywords": [
+    "decentralized",
+    "fixed deposit",
+    "KYC",
+    "blockchain"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
